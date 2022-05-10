@@ -46,7 +46,8 @@ VIA(Remap)ファームウェアも用意されています。
 |2uスタビライザー|2||
 |ロータリーエンコーダ|1||
 
-##　組み立て方
+
+## 組み立て方
 
 組み立ての手順は、[Center x Enter](https://github.com/takashicompany/center_enter)と同様です。  
 手順については、[千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ハードウェア編）](https://note.com/azulee/n/nbe20617f434b)をご覧ください。  
