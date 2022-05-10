@@ -48,4 +48,13 @@ VIA(Remap)ファームウェアも用意されています。
 
 ##　組み立て方
 
-組み立ての手順は、Center x Enterと同様です。  
+組み立ての手順は、[Center x Enter](https://github.com/takashicompany/center_enter)と同様です。  
+手順については、[千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ハードウェア編）](https://note.com/azulee/n/nbe20617f434b)をご覧ください。  
+(一部の部品の個数は異なります)
+
+## ファームウェアについて
+ソースコードは[QMK Firmwareにマージ済み](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/qoolee)です。
+
+Remapでの
+
+MXソケットによるキースイッチのホットスワップや、LEDの搭載にも対応しています。  
