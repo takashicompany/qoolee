@@ -53,8 +53,20 @@ VIA(Remap)ファームウェアも用意されています。
 (一部の部品の個数は異なります)
 
 ## ファームウェアについて
-ソースコードは[QMK Firmwareにマージ済み](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/qoolee)です。
+ソースコードは[QMK Firmwareにマージ済み](https://github.com/qmk/qmk_firmware/tree/master/keyboards/takashicompany/qoolee)です。  
+[Remapでのファームウェアの書き込み](https://remap-keys.app/catalog/XDEYpuBml3mIhoFDDAFg/firmware)にも対応しております。
 
-Remapでの
+ファームウェアの書き込み手順は[千葉千夏/あずさん](https://twitter.com/azulee)の[自作キーボードキット「Center x Enter」を組み立てました（ビルドログ・ソフトウェア編）](https://note.com/azulee/n/n8557fdfbc679)をご覧ください。
 
-MXソケットによるキースイッチのホットスワップや、LEDの搭載にも対応しています。  
+## 完成したら
+
+### 13. 完成したら...
+
+完成しましたら、ぜひSNSなどに写真を投稿頂ければと思います。
+Twitterのハッシュタグは [`#QooLee #自作キーボード`](https://twitter.com/search?q=%23%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%20%23miniZone&src=typed_query) を付けていただけると幸いです。
+キットを組み立てた感想や、キーボードを使った所感などをお待ちしております！
+
+また、毎週日曜日の１9時より実施されている[#KEEP_PD](https://twitter.com/hashtag/KEEB_PD?f=live)に投稿頂くこともオススメです。  
+開催の告知は[@KEEB_PD](https://twitter.com/KEEB_PD)にて行われております。
+
+ご不明な点などございましたら、[@takashicompany](https://twitter.com/takashicompany)にメンションやDM頂ければ回答できるかと思います。
