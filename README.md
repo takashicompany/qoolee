@@ -1,5 +1,7 @@
 # QooLee
 
+<img src="https://github.com/takashicompany/qoolee/blob/master/images/01.jpg?raw=true" height="300px" />
+
 QooLee is a keyboard with a 30% layout with ISO Enter.  
 It can also be equipped with a rotary encoder.  
 It supports hot-swapping of keyswitches with MX sockets and mounting of LEDs.  
@@ -7,12 +9,8 @@ VIA (Remap) firmware is also available.
 
 QooLeeはISO Enterを搭載した30%レイアウトのキーボードです。  
 ロータリーエンコーダを搭載することも可能です。  
-MXソケットによるキースイッチのホットスワップや、LEDの搭載にも対応しています。  
+スイッチソケットによるキースイッチのホットスワップや、LEDの搭載にも対応しています。  
 VIA(Remap)ファームウェアも用意されています。  
-
-
-![image](https://github.com/takashicompany/qoolee/blob/master/images/01.jpg?raw=true)
-
 
 
 ## 必要な部品
@@ -32,18 +30,22 @@ VIA(Remap)ファームウェアも用意されています。
 ### ご自身で用意が必要なもの
 |部品|個数|備考|
 |:--|:--|:--|
+|キーキャップ 1u|31|Cherry MX軸に対応したもの。|
+|キーキャップ 1.5u|1|Cherry MX軸に対応したもの。|
+|キーキャップ 1.75u|1|Cherry MX軸に対応したもの。|
+|キーキャップ 2u|1|Cherry MX軸に対応したもの。|
+|キーキャップ ISO Enter|1|Cherry MX軸に対応したもの。|
 |キースイッチ|35|Cherry MX互換のもの。|
-|キーキャップ|35|左のシフトキーは2uのものを採用しています。|
 |Pro Micro|1||
 |USBケーブル|1|Pro MicroとPCを接続します。|
 
 ### オプション
 |部品|個数|備考|
 |:--|:--|:--|
-|コンスルー|1||
-|MXソケット|35||
+|コンスルー|2||
+|スイッチ用 ソケット(MX)|35||
 |WS2812B|6|アンダーグロウライトとしてキーボードの底面を光らせることができます。|
-|2uスタビライザー|2||
+|2uスタビライザー|2|シフトキー（2u)とISO Enterキーの箇所に取り付け可能|
 |ロータリーエンコーダ|1||
 
 
